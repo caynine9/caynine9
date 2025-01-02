@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Tantowi, a final year student at Universitas Muhammadiyah Banjarmasin. I'm really passionate about Java/Kotlin, mobile development (native Android/iOS), backend web development, and machine learning.</p>
+<p align="left">My name is Tantowi, a final year student at Universitas Muhammadiyah Banjarmasin. I'm really passionate about Java/Kotlin, mobile development (native Android/iOS), fullstack web development, and machine learning.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻 Building web apps and REST APIs using Spring Boot (Java), SQL databases, and JavaScript frontend stack<br>📱 Also building mobile apps using Kotlin and Jetpack Compose<br>📖 Finishing my bachelor's degree writing a Machine Learning app in Python<br><br>Portfolio coming soon!</p>
+<p align="left">💻 Building REST APIs using Spring Boot (Java), SQL databases, and JavaScript frontend stack<br>📱 Also building mobile apps using Kotlin and Jetpack Compose<br>📖 Finishing my bachelor's degree writing a Machine Learning app in Python<br><br>Portfolio coming soon!</p>
 
 ###
 
