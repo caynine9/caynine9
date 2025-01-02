@@ -10,7 +10,9 @@
 
 ###
 
-<p align="left">💻 Building several web app projects; REST APIs using Spring Boot (Java), SQL databases, and JavaScript frontend stack<br>📱 Also building mobile apps using Kotlin and Jetpack Compose<br>📖 Finishing my bachelor's degree writing a Machine Learning app in Python with Laravel web interface.<br><br>Portfolio coming soon!</p>
+<p align="left">📖 Currently, my main focus is completing my bachelor's degree, with a capstone project focused on developing a machine learning classifier system in Python to predict late payments done by consumers for an energy company, integrated with a web interface built using Laravel<br>
+📱 Building mobile apps using Kotlin and Jetpack Compose<br>
+💻 Building several web app projects/startups; REST APIs using Spring Boot (Java), SQL databases, and JavaScript frontend stack<br><br>Portfolio coming soon!</p>
 
 ###
 
