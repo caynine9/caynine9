@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻 Building several web app projects; REST APIs using Spring Boot (Java), SQL databases, and JavaScript frontend stack<br>📱 Also building mobile apps using Kotlin and Jetpack Compose<br>📖 Finishing my bachelor's degree writing a Machine Learning app in Python<br><br>Portfolio coming soon!</p>
+<p align="left">💻 Building several web app projects; REST APIs using Spring Boot (Java), SQL databases, and JavaScript frontend stack<br>📱 Also building mobile apps using Kotlin and Jetpack Compose<br>📖 Finishing my bachelor's degree writing a Machine Learning app in Python with Laravel web interface.<br><br>Portfolio coming soon!</p>
 
 ###
 
@@ -32,6 +32,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
 </div>
 
 ###
