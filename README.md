@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻 Building REST APIs using Spring Boot (Java), SQL databases, and JavaScript frontend stack<br>📱 Also building mobile apps using Kotlin and Jetpack Compose<br>📖 Finishing my bachelor's degree writing a Machine Learning app in Python<br><br>Portfolio coming soon!</p>
+<p align="left">💻 Building several web app projects; REST APIs using Spring Boot (Java), SQL databases, and JavaScript frontend stack<br>📱 Also building mobile apps using Kotlin and Jetpack Compose<br>📖 Finishing my bachelor's degree writing a Machine Learning app in Python<br><br>Portfolio coming soon!</p>
 
 ###
 
