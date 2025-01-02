@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Tantowi, a final year student at Universitas Muhammadiyah Banjarmasin. I'm really passionate about Java/Kotlin, mobile development (native Android/iOS), fullstack web development, and machine learning.</p>
+<p align="left">My name is Tantowi, a final year student at Universitas Muhammadiyah Banjarmasin. I'm really passionate about Java/Kotlin. I aspire to become a proficient mobile developer whether it's native Android or iOS. Other passion projects I frequently indulge in is fullstack web development, and machine learning.</p>
 
 ###
 
