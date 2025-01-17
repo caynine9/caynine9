@@ -14,7 +14,7 @@
 
 <p align="left">📖 Currently, my main focus is completing my bachelor's degree, with a capstone project focused on developing a machine learning classifier system in Python to predict late payments done by customers for an energy company, integrated with a web interface built using Laravel<br>
 📱 Building mobile apps using Kotlin and Jetpack Compose<br>
-💻 Building several web app projects/startups; REST APIs using Spring Boot (Java), SQL databases, and JavaScript frontend stack<br><br>Portfolio coming soon!</p>
+💻 Building several web app projects/startups; REST APIs using Spring Boot (Java), SQL databases, and TypeScript/JS frontend stack<br><br>Portfolio coming soon!</p>
 
 ###
 
@@ -23,6 +23,7 @@
 ###
 
 <div align="left">
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
@@ -31,9 +32,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
