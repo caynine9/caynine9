@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">📖 Currently, my main focus is completing my bachelor's degree, with a capstone project focused on developing a machine learning classifier system in Python to predict late payments done by customers for an energy company, integrated with a web interface built using Laravel<br>
+<p align="left">📖 Finished my bachelor's degree, with a capstone project focused on developing a machine learning classifier system in Python to predict late payments done by customers for an energy company, integrated with a web interface built using Laravel<br>
 📱 Building mobile apps using Kotlin and Jetpack Compose<br>
 💻 Building several web app projects/startups; REST APIs using Spring Boot (Java), SQL databases, and TypeScript/JS frontend stack<br><br>Portfolio coming soon!</p>
 
